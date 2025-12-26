@@ -94,6 +94,20 @@ scrape_configs:
 
 <img width="1920" height="1080" alt="Снимок экрана (2197)" src="https://github.com/user-attachments/assets/fefd76d3-cf40-4f98-b648-306d76c85b72" />
 
+## Задание 2
 
+Изучите самостоятельно ресурсы:
+
+1. PromQL tutorial for beginners and humans.
+2. Understanding Machine CPU usage.
+3. Introduction to PromQL, the Prometheus query language.
+
+### Создайте Dashboard и в ней создайте Panels:
+
+   * утилизация CPU для nodeexporter (в процентах, 100-idle);
+   * CPULA 1/5/15;
+   * количество свободной оперативной памяти;
+   * количество места на файловой системе.
+### Для решения этого задания приведите promql-запросы для выдачи этих метрик, а также скриншот получившейся Dashboard.
 
 
